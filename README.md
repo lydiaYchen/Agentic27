@@ -21,7 +21,7 @@
 <!-- /vscode-markdown-toc --><!-- vscode-markdown-toc -->
 
 
-# [Agentic26] Agentic Systems <!-- omit in toc -->
+# [Agentic27] Agentic Systems <!-- omit in toc -->
 
 This repository contains the materials of the **MSc Agentic Systems** course running in fall 2026 at UNINE. This is part of BeNeFri Master's program.
 
