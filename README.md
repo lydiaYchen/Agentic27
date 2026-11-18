@@ -23,7 +23,7 @@
 
 # [Agentic27] Agentic Systems <!-- omit in toc -->
 
-This repository contains the materials of the **MSc Agentic Systems** course running in fall 2026 at UNINE. This is part of BeNeFri Master's program.
+This repository contains the materials of the **MSc Agentic Systems** course running in fall 2027 at UNINE. This is part of BeNeFri Master's program.
 
 
 
