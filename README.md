@@ -101,7 +101,7 @@ This course has no final exam; instead, the grade is largely determined through 
 
 1. **Labs (0%):** Each lab provides hands-on exercises that connect the concepts covered in the course with practical coding implementations. The first part of each lab is dedicated to students working on the exercises, while the second part is led by the TA, who will address students' questions and discuss common challenges. We strongly encourage students to attend the labs and work through the exercises together, as this will help them learn the course materials more effectively and prepare for the project. **Additional content and concepts covered in the labs will also be included in the quizzes.** We expect students to spend an average 4-6 hours per week for this course. 
    
-2. **Quizzes (36%):** There are 3 quizzes in weeks 4, 9, and 12. Each quiz accounts for 12% of the grade and covers 3–5 weeks of material, depending on the subject. The exact format of each quiz will be announced during the corresponding lab. The key purpose of the quizzes is to ensure that students have a sufficient understanding of **the materials covered in the course and labs.**
+2. **Quizzes (30%):** There are 2 quizzes in weeks 4, 9, and 12. Each quiz accounts for 12% of the grade and covers 3–5 weeks of material, depending on the subject. The exact format of each quiz will be announced during the corresponding lab. The key purpose of the quizzes is to ensure that students have a sufficient understanding of **the materials covered in the course and labs.**
 
 3. **Group project (70%):** The group project consists of a project report and a presentation. Students will develop a GAI application and optimize its performance. There will be an initial proposal in week 6, followed by an in-class interim discussion with each team in week 10. The final report will be due in week 14, with a 20-minute presentation in week 14 as well. The grading criteria of the project is described below. 
 
@@ -140,16 +140,16 @@ At the end of each project phase we will conduct a short interview (20 minutes p
 | Week 1 (Feb 23) | 1. Introduction to Agentic Systems | No-Lab |
 | Week 2 (Mar 2) | 2. Agentic Benchmark: Tool Use and Function Calling | Tool Use & Function Calling Benchmarking |
 | Week 3 (Mar 9) | 3. Harness of Agentic Systems | Agentic Harness Engineering |
-| Week 4 (Mar 16) | 4. System and KV Cache | **Quiz 1** |
+| Week 4 (Mar 16) | 4. System and KV Cache | KV Cche |
 | Week 5 (Mar 23) | 5. Context Engineering | Context Engineering |
 | Week 6 (Mar 30) | Easter Holiday - No class | Easter Holiday - No Lab |
 | Week 7 (Apr 6) | 6. Self-Correction | Self-Correction Loops |
-| Week 8 (Apr 13) | 7. Self-Improving | Self-Improving Systems |
-| Week 9 (Apr 20) | 8. Distributed SGD | **Quiz 2** |
+| Week 8 (Apr 13) | 7. Distributed SGD | **Quiz 1** |
+| Week 9 (Apr 20) | 8. Self-improve  | Self-Improving |
 | Week 10 (Apr 27) | 9. Self-Evolving | Self-Evolving Architectures | Project Midterm |
 | Week 11 (May 4) | 10. Attacks/Defenses for LLMs | Adversarial Attacks & Defenses |
 | Week 12 (May 11) | 11. Safety: Guardrails & Activation Steering | Guardrails & Activation Steering |
-| Week 13 (May 18) | 12. Privacy for LLMs | **Quiz 3** |
+| Week 13 (May 18) | 12. Privacy for LLMs | **Quiz 2** |
 | Week 14 (May 25) |  Project Presentation |  |
 
 ## 8. <a name='Relevantreferences'></a>Relevant references
